@@ -40,8 +40,8 @@ Before carrying out clustering it is required for data to be near normal.
 Hence data is projected on logarithmic scale to convert them to normal distribution.
 Performed clustering using k-means.Elbow method is used to select optimum number of clusters.
 <br>![image](https://github.com/neelpdesai/Bank-Customer-Segmentation/assets/137664550/e28e41dd-dbc2-467c-aa87-1b66ffdcf950)
-Based on the results the customers are segmented into 5 groups.
-Following is the charecteristics of clusters:
+<br>Based on the results the customers are segmented into 5 groups.
+<br>Following is the charecteristics of clusters:
 * Cluster 4 has high frequency. Such customers are loyal customers who carryout transactions frequently. They should be provided incentives for this behaviour.
 * Cluster 5 are the customers who are having higher transaction amount, recency, account balance but lesser frequency. Those customers should be encouraged to carryout more transactions by providing them offers like cashback for frequently doing transaction through the bank account.
 * While customers in cluster 1, 2 and 3 are more sort of churned customers. They should be provided offers and discount coupons to encourage transactions from their bank account. Moreover marketing team can focus on contacting these customers and retaining them.  
