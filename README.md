@@ -48,12 +48,12 @@ Performed clustering using k-means.Elbow method is used to select optimum number
 <br>![image](https://github.com/neelpdesai/Bank-Customer-Segmentation/assets/137664550/5295a3b8-ec2d-4e29-a4a8-a390a8cbb057)
 
 To further analyze, PCA (Principal Component Analysis) is performed. 
-According to PCA, 3 Principal components can explain the 90% variation. 
+<br>According to PCA, 3 Principal components can explain the 90% variation. 
 <br>![image](https://github.com/neelpdesai/Bank-Customer-Segmentation/assets/137664550/65f3e1d1-5694-48cf-b263-90fbb65c05e8)
-The reduced principal dimension are used to perform clustering to get better results.
-The optimum number of clusters using elbow technique in this case is 3.
+<br>The reduced principal dimension are used to perform clustering to get better results.
+<br>The optimum number of clusters using elbow technique in this case is 3.
 <br>![image](https://github.com/neelpdesai/Bank-Customer-Segmentation/assets/137664550/78e7edd9-64da-4182-a204-501771a709c5)
-Thus this analysis also confirms that there are mainly 3 types of customer groups. 
+<br>Thus this analysis also confirms that there are mainly 3 types of customer groups. 
 <br>![image](https://github.com/neelpdesai/Bank-Customer-Segmentation/assets/137664550/782da0a5-12dd-478a-b2f7-a064b239cfd0)
 
 
