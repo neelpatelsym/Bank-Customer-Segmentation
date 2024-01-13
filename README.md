@@ -25,13 +25,13 @@ The result shows significant number of outliers for each feature. However, upon 
 Following is the main insights extracted from Exploratory Data Analysis (EDA)
 <br>1.High correlation prevails between frequency and recency.
 <br>![image](https://github.com/neelpdesai/Bank-Customer-Segmentation/assets/137664550/abe8fa0f-b2f2-4b76-a50d-0ce939b9934c)
-2.The number of repeat customers are only 16.14%. Thus bank has to extensively focus in providing incentives to encourage customers for carrying out repeated transactions.
+<br>2.The number of repeat customers are only 16.14%. Thus bank has to extensively focus in providing incentives to encourage customers for carrying out repeated transactions.
 <br>![image](https://github.com/neelpdesai/Bank-Customer-Segmentation/assets/137664550/d89474fa-c126-415b-840c-3dddc72b75e9)
-3.There is not much difference between both gender groups with respect to Frequency, Recency and Transaction Amount.
+<br>3.There is not much difference between both gender groups with respect to Frequency, Recency and Transaction Amount.
 <br>![image](https://github.com/neelpdesai/Bank-Customer-Segmentation/assets/137664550/60469325-5bd3-4e26-be95-a8a773bd9fc5)
-4. Most of the customers having high bank account balance are less likely to use platform frequently.
+<br>4. Most of the customers having high bank account balance are less likely to use platform frequently.
 <br>![image](https://github.com/neelpdesai/Bank-Customer-Segmentation/assets/137664550/196f9576-81f6-4e17-a45f-964816fc673b)
-5. The transaction amount hiked in the month of May because childeren have summer vacation in their school. So people use to travel in this months causing them to spend more in May.
+<br>5.The transaction amount hiked in the month of May because childeren have summer vacation in their school. So people use to travel in this months causing them to spend more in May.
 <br>![image](https://github.com/neelpdesai/Bank-Customer-Segmentation/assets/137664550/322d3df5-3829-436e-869d-c54411d92712)
 
 ### Model Building and Segmentation
