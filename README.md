@@ -23,7 +23,7 @@ After deriving Recency, Frequency and Monetary features, an outlier detection ta
 The result shows significant number of outliers for each feature. However, upon close examination it can concluded that those data points reflect specific customer groups and not outliers.
 
 Following is the main insights extracted from Exploratory Data Analysis (EDA)
-1.High correlation prevails between frequency and recency.
+<br>1.High correlation prevails between frequency and recency.
 <br>![image](https://github.com/neelpdesai/Bank-Customer-Segmentation/assets/137664550/abe8fa0f-b2f2-4b76-a50d-0ce939b9934c)
 2.The number of repeat customers are only 16.14%. Thus bank has to extensively focus in providing incentives to encourage customers for carrying out repeated transactions.
 <br>![image](https://github.com/neelpdesai/Bank-Customer-Segmentation/assets/137664550/7c3d89da-4a4a-4f38-8c57-75a85821b027)
