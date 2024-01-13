@@ -26,7 +26,7 @@ Following is the main insights extracted from Exploratory Data Analysis (EDA)
 <br>1.High correlation prevails between frequency and recency.
 <br>![image](https://github.com/neelpdesai/Bank-Customer-Segmentation/assets/137664550/abe8fa0f-b2f2-4b76-a50d-0ce939b9934c)
 2.The number of repeat customers are only 16.14%. Thus bank has to extensively focus in providing incentives to encourage customers for carrying out repeated transactions.
-<br>![image](https://github.com/neelpdesai/Bank-Customer-Segmentation/assets/137664550/7c3d89da-4a4a-4f38-8c57-75a85821b027)
+<br>![image](https://github.com/neelpdesai/Bank-Customer-Segmentation/assets/137664550/d89474fa-c126-415b-840c-3dddc72b75e9)
 3.There is not much difference between both gender groups with respect to Frequency, Recency and Transaction Amount.
 <br>![image](https://github.com/neelpdesai/Bank-Customer-Segmentation/assets/137664550/60469325-5bd3-4e26-be95-a8a773bd9fc5)
 4. Most of the customers having high bank account balance are less likely to use platform frequently.
